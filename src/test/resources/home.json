@@ -1,0 +1,13 @@
+{
+  "numbers": [
+    1,
+    2,
+    3
+  ],
+  "flag": true,
+  "card": "gold",
+  "username": {
+    "firstname": "Kurt",
+    "lastname": "Cobain"
+  }
+}
